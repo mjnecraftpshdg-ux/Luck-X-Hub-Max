@@ -8,7 +8,7 @@
 ]]
 
 local EspaceX = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/EspaceX.lua"
+    "https://github.com/mjnecraftpshdg-ux/Luck-X-Hub-Max"
 ))()
 -- local EspaceX = loadstring(readfile("EspaceX.lua"))()
 
