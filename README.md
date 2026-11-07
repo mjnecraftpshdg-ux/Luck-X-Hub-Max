@@ -18,7 +18,7 @@ Biblioteca de interface (UI) para Roblox, escrita em Luau, com visual escuro est
 
 ```lua
 local EspaceX = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/EspaceX.lua"
+    "https://github.com/mjnecraftpshdg-ux/Luck-X-Hub-Max"
 ))()
 ```
 
